@@ -31,21 +31,6 @@ Whether you're building an autonomous coding agent, a creative writing assistant
 
 Have a prompt that consistently outputs high-quality results? Read our `CONTRIBUTING.md` on how to format your prompt with XML tags and submit it to the collection.
 
----
-
-## 🏢 About Stackaura
-
-Awesome Claude Prompts is actively curated by **Stackaura**. We specialize in providing top-tier digital solutions, focusing on AI-driven workflows, web development, premium branding, and scalable software architecture designed to elevate your business. 
-
-**Want to integrate advanced AI into your product?**
-> Visit us at [**Stackaura.com**](https://www.stackaura.com/) to learn more about our enterprise AI integration and consulting services.
-
-<div align="center">
-  <a href="https://www.stackaura.com/">
-    <img src="https://img.shields.io/badge/Visit-Stackaura-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Visit Stackaura" />
-  </a>
-</div>
-
 
 ---
 
@@ -64,3 +49,4 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
