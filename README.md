@@ -32,6 +32,7 @@ Whether you're building an autonomous coding agent, a creative writing assistant
 Have a prompt that consistently outputs high-quality results? Read our `CONTRIBUTING.md` on how to format your prompt with XML tags and submit it to the collection.
 
 
+
 ---
 
 ## 🚀 Discover More from Stackaura
@@ -49,4 +50,5 @@ If you found this tool useful, check out our other high-performance web utilitie
 - **Author:** [Ahmar Hussain](https://github.com/RanaAhmar)
 
 ---
+
 
